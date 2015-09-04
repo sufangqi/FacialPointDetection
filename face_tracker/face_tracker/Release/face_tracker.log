@@ -1,0 +1,21 @@
+﻿生成启动时间为 2015/7/22 14:19:15。
+     1>项目“D:\VS2012Project\Face_track_su_ALL\face_tracker\face_tracker\face_tracker.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "人眼定位第二版\visualize_face_EyeBall.cpp"
+         visualize_face_EyeBall.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VS2012Project\Face_track_su_ALL\face_tracker\Release\face_tracker.exe" /INCREMENTAL:NO /NOLOGO opencv_ml246.lib opencv_calib3d246.lib opencv_contrib246.lib opencv_core246.lib opencv_features2d246.lib opencv_flann246.lib opencv_gpu246.lib opencv_highgui246.lib opencv_imgproc246.lib opencv_legacy246.lib opencv_objdetect246.lib opencv_ts246.lib opencv_video246.lib opencv_nonfree246.lib opencv_ocl246.lib opencv_photo246.lib opencv_stitching246.lib opencv_superres246.lib opencv_videostab246.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\VS2012Project\Face_track_su_ALL\face_tracker\Release\face_tracker.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VS2012Project\Face_track_su_ALL\face_tracker\Release\face_tracker.lib" /MACHINE:X86 /SAFESEH Release\face_detector.obj
+         Release\face_Keypoint.obj
+         Release\ft_data.obj
+         Release\patch_face_Key.obj
+         Release\shape_face.obj
+         Release\visualize_face_EyeBall.obj
+         正在生成代码
+         已完成代码的生成
+         face_tracker.vcxproj -> D:\VS2012Project\Face_track_su_ALL\face_tracker\Release\face_tracker.exe
+     1>已完成生成项目“D:\VS2012Project\Face_track_su_ALL\face_tracker\face_tracker\face_tracker.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.19
